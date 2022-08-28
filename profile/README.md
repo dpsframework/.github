@@ -1,7 +1,6 @@
 ## dpsFramework project 👋
 
-> Multiagent Production Systems on JADE platform <br>
--- Manage autonomous expert systems integrated in JADE agents --
+> Multiagent Production Systems on JADE platform <br><br>
 
 
 >  The dpsFramework project and its JADE agent library **dpsAgent** was developed at the University of León between 2012 and 2017. And it has been regularly updated up to the present.
@@ -16,10 +15,12 @@
 Following components are used by **dpsFramework** agents:
 
 
-* **JADE** 4.5.4 r6868 with its **FIPA** module implemented with CORBA libraries.
-* **CLIPSJNI** Java Native by **CLIPS-6.40** and **JESS**: both are Expert Systems Building Tools.
-* In debug mode, the **dpsAgents** incorpores a GUI with access to Java command-line interpreter **BeanShell**, and highlighting code-editor such as **RSyntaxTextArea**.
-* And optionally, OWL reasoners from the Apache-JENA framework for building Semantic Web apps.
+* **JADE** 4.5.4 r6868 with its **FIPA** module integrated with CORBA libraries.
+* **CLIPSJNI** Java Native by **CLIPS-6.40** and **JESS**: Expert Systems Building Tools.
+* In debug mode, the **dpsAgents** incorpores a GUI with access to:
+  1. Java command-line interpreter **BeanShell**.
+  1. Highlighting code-editor such as **RSyntaxTextArea**.
+* And optionally, OWL reasoners from **Apache-JENA** framework for building Semantic Web apps.
 
 
 
