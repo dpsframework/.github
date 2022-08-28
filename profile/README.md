@@ -1,21 +1,20 @@
 ## dpsFramework project 👋
 
-> Problem-Solving JADE Agents connected <br>
-to built-in autonomous Expert Systems: for short [**PS-Agents**].
+> Multiagent Production Systems on JADE platform<br>
+Managed autonomous and built-it Expert Systems by JADE agents (or **dpsAgent** for short).
 
-> This project also incorporates with proven solutions, proposals <br>
-to update MAS-platform, components and engines to the Java <br>
-Platform JDK-17 (LTS) or OpenJDK-18 and higher. <br>
-Initially, the completed and tested proposals for upgrading <br>
-to JDK-17/OpenJDK-18 cover the following items used by the [PS-Agents]:
+> The dpsFramework project is a free and open source Java framework  <br>
+for building _Multi-Agent Production System applications_. It provides  <br>
+three types of JADE agents, and a development environment made up  <br>
+of a collection of internal and external scripts for the agents,  <br>
+which allow the creation and maintenance of applications.  <br>
+Following components are used by **dpsAgent**:
 
-* **JADE** 4.5.4 Platform and its **FIPA** module implemented with CORBA libraries.
-* **CLIPSJNI** for CLIPS-6.31 and CLIPS-6.40. As well as core of **JESS** Rule-Based engine.
-* And GUI and, Java Interpreter components, such as: **RSyntaxTextArea** and, **BeanShell**.
 
-All of them were essential for [[**PS-Agents**   v1.8]](https://github.com/dpsframework/PS-Agents-1.8/releases/tag/1.8). <br>
-And half of them are still critical items in the new version [**PS-Agents**  v2.1].
-
+* **JADE** 4.5.4 r6868 with its **FIPA** module implemented with CORBA libraries.
+* **CLIPSJNI** for CLIPS-6.40 and **JESS**: both are Expert Systems Building Tools.
+* In debug mode, the **dpsAgent** incorpores a GUI with access to Java command-line interpreter **BeanShell**, and highlighting code-editor such as **RSyntaxTextArea**.
+* Apache-JENA framework for building Semantic Webn and Linked Data apps.
 
 
 
