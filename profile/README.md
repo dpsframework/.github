@@ -3,7 +3,7 @@
 > Multiagent Production Systems on JADE platform <br><br>
 
 
->  The dpsFramework project and its JADE agent library **dpsAgent** was developed at the University of León between 2012 and 2017. And it has been regularly updated up to the present.
+>  The dpsFramework project and its JADE agent library **dpsAgents** was developed at the University of León between 2012 and 2017. And it has been regularly updated up to the present.
 
 
 | [ ![](https://github.com/dpsframework/.github/blob/master/profile/unileon.png?raw=true)<br>University <br>of León](https://departamentos.unileon.es/ingenieria-electrica-y-de-sistemas-y-automatica/asignaturas-impartidas/) | [ ![](https://github.com/dpsframework/.github/blob/master/profile/secomuci.png?raw=true)<br>Secomuci<br>Research group](https://www.secomuci.com/) | [ ![](https://github.com/dpsframework/.github/blob/master/profile/jdk.java.net-small.png?raw=true)<br><br>jdk.java.net](https://jdk.java.net/18/) | [ ![](https://github.com/dpsframework/.github/blob/master/profile/dpsframework.png?raw=true)<br>dpsAgents](https://dpsframework.org/index.html)<br> [es](https://dpsframework.org/) • [en](https://dpsframework.org/index_en.html) |  
@@ -11,6 +11,13 @@
 
 
 > The dpsFramework project aims to be a free and open source Java framework for building multi-agent production system applications. It provides three types of JADE agents and a development environment made up of a collection of internal and external scripts used by these agents, to facilitate the creation and maintenance of applications.
+
+
+
+
+>  However, the great changes undergone by the Oracle Java compiler from the appearance of JDK-11 to JDK-18 and the deep transformation of the expert system construction tool CLIPS version 6.40 have motivated this complete revision of **dpsAgents** Java Library and the **dpsFramework** in tis entirety. We intend to release **dpsAgents-2.1** at the end of next September 2022.
+
+
 
 Following components are used by **dpsFramework** agents:
 
@@ -28,6 +35,4 @@ Following components are used by **dpsFramework** agents:
 | :---: | :---: | :---: | :---:    | :---: | :---:  | :---: | 
 
 
-
->  However, the great changes undergone by the Oracle Java compiler from the appearance of JDK-11 to JDK-18 and the deep transformation of the expert system construction tool CLIPS version 6.40 have motivated this complete revision of **dpsAgent** Java Library and the **dpsFramework** in tis entirety.
 
