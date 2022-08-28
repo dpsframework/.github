@@ -15,7 +15,7 @@
 
 
 
->  However, the great changes undergone by the Oracle Java compiler from the appearance of JDK-11 to JDK-18 and the deep transformation of the expert system construction tool CLIPS version 6.40 have motivated this complete revision of **dpsAgents** Java Library and the **dpsFramework** in tis entirety. We intend to release **dpsAgents-2.1** at the end of next September 2022.
+>  However, the great changes undergone by the Oracle Java compiler from the appearance of JDK-11 to JDK-18 and the deep transformation of the expert system construction tool CLIPS version 6.40 have motivated this complete revision of **dpsAgents** Java Library and the **dpsFramework** in tis entirety. We intend to release  **dpsAgents-2.1** before the end of 2022.
 
 
 
