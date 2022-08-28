@@ -1,7 +1,7 @@
 ## dpsFramework project 👋
 
 > Multiagent Production Systems on JADE platform<br>
-Managed autonomous and built-it Expert Systems by JADE agents (or **dpsAgent** for short).
+Managed autonomous and built-it Expert Systems <br> by JADE agents (or **dpsAgent** for short).
 
 > The dpsFramework project is a free and open source Java framework  <br>
 for building _Multi-Agent Production System applications_. It provides  <br>
@@ -12,9 +12,9 @@ Following components are used by **dpsAgent**:
 
 
 * **JADE** 4.5.4 r6868 with its **FIPA** module implemented with CORBA libraries.
-* **CLIPSJNI** for CLIPS-6.40 and **JESS**: both are Expert Systems Building Tools.
+* **CLIPSJNI** Java Native by **CLIPS-6.40** and **JESS**: both are Expert Systems Building Tools.
 * In debug mode, the **dpsAgent** incorpores a GUI with access to Java command-line interpreter **BeanShell**, and highlighting code-editor such as **RSyntaxTextArea**.
-* Apache-JENA framework for building Semantic Webn and Linked Data apps.
+* And optionally, OWL reasoners from the Apache-JENA framework for building Semantic Webn and Linked Data apps.
 
 
 
@@ -25,8 +25,8 @@ Following components are used by **dpsAgent**:
 
 
 
->  PS-Agents were developed at the University of León between 2012 and 2017. <br> The **motivation** to face these changes and adaptations was caused by <br>
-the advances in Java and Early-Access OpenJDK Builds, from Oracle. 
+>  **dpsAgent** Java LIbrary was developed at the University of León between 2012 and 2017 years. And it has been regulary updated until present.
+    The motivation to face these enourmous  changes was caused by  advances in Java and Early-Access OpenJDK builds and the big changes made in CLIPS-6.40 version expert system  building tool.
 
 
 | [ ![](https://github.com/dpsframework/.github/blob/master/profile/unileon.png?raw=true)<br>University <br>of León](https://departamentos.unileon.es/ingenieria-electrica-y-de-sistemas-y-automatica/asignaturas-impartidas/) | [ ![](https://github.com/dpsframework/.github/blob/master/profile/jdk.java.net-small.png?raw=true)<br><br>jdk.java.net](https://jdk.java.net/18/) | [ ![](https://github.com/dpsframework/.github/blob/master/profile/dpsframework.png?raw=true)<br>dpsFramework<br>website](https://dpsframework.org/index.html) | 
