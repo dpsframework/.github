@@ -1,7 +1,7 @@
 ## dpsFramework project 👋
 
-> Multiagent Production Systems on JADE platform<br>
-Managed autonomous and built-it Expert Systems by JADE agents
+> Multiagent Production Systems on JADE platform <br>
+--- Managed autonomous and built-it Expert Systems by JADE agents ---
 
 
 > The dpsFramework project is a free and open source Java framework  <br>
@@ -11,7 +11,7 @@ of a collection of internal and external scripts used by those agents,  <br>
 which allow the creation and maintenance of applications.  <br>
 
 
-| [ ![](https://github.com/dpsframework/.github/blob/master/profile/unileon.png?raw=true)<br>University <br>of León](https://departamentos.unileon.es/ingenieria-electrica-y-de-sistemas-y-automatica/asignaturas-impartidas/) | [ ![](https://github.com/dpsframework/.github/blob/master/profile/jdk.java.net-small.png?raw=true)<br><br>jdk.java.net](https://jdk.java.net/18/) | [ ![](https://github.com/dpsframework/.github/blob/master/profile/dpsframework.png?raw=true)<br>dpsFramework<br>website](https://dpsframework.org/index.html) | 
+| [ ![](https://github.com/dpsframework/.github/blob/master/profile/unileon.png?raw=true)<br>University <br>of León](https://departamentos.unileon.es/ingenieria-electrica-y-de-sistemas-y-automatica/asignaturas-impartidas/) | [ ![](https://github.com/dpsframework/.github/blob/master/profile/secomuci.png?raw=true)<br><br>Secomuci research group](https://www.secomuci.com/) | [ ![](https://github.com/dpsframework/.github/blob/master/profile/jdk.java.net-small.png?raw=true)<br><br>jdk.java.net](https://jdk.java.net/18/) | [ ![](https://github.com/dpsframework/.github/blob/master/profile/dpsframework.png?raw=true)<br>dpsFramework<br>website](https://dpsframework.org/index.html) | 
 | :---: | :---: | :---: | 
 
 
