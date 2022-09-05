@@ -1,8 +1,5 @@
 ## dpsFramework project 👋
 
-> Multiagent Production Systems on JADE platform <br><br>
-
-
 >  The dpsFramework project and its JADE agent library **dpsAgents** was developed at the University of León between 2012 and 2017. And it has been regularly updated up to the present.
 
 
