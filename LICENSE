@@ -1,5 +1,5 @@
-                  GNU LESSER GENERAL PUBLIC LICENSE
-                       Version 2.1, February 1999
+               GNU LESSER GENERAL PUBLIC LICENSE
+                 Version 2.1, February 1999
 
  Copyright (C) 1991, 1999 Free Software Foundation, Inc.
  51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
@@ -470,8 +470,14 @@ safest to attach them to the start of each source file to most effectively
 convey the exclusion of warranty; and each file should have at least the
 "copyright" line and a pointer to where the full notice is found.
 
-    <Multi-Agent Production Systems on JADE Platform.>
-    Copyright (C) <2022>  <FJ Aguayo-Canela>
+    dpsAgents library builds JADE Agents with Production Systems management capabilities.
+    Copyright (C) <2017..2022>  <Aguayo-Canela, FJ>
+    francisco.aguayo @ ieee.org
+    
+    The University of León (Spain), hereby disclaims all copyright 
+    interest in the library `dpsAgents` (a library for building and 
+    deploying JADE Agents with Production Systems management 
+    capabilities) written by Aguayo-Canela, FJ.
 
     This library is free software; you can redistribute it and/or
     modify it under the terms of the GNU Lesser General Public
