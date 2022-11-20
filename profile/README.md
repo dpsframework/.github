@@ -10,7 +10,7 @@
 >  The **dpsAgents** Library was developed at the University of León (Spain) <br>as part of the PhD in Intelligent Systems applied to Engineering between 2012 and 2017.
 
 
-- Authorities and Working Group which promoted, <br>and the Project that currently maintains the **dpsAgents** library
+- Authorities and Working Group which promoted, <br>and the Project that currently maintains the **dpsAgents** library:
 
 
 | [ ![](https://github.com/dpsframework/.github/blob/master/profile/unileon.png?raw=true)<br>University <br>of León](https://departamentos.unileon.es/ingenieria-electrica-y-de-sistemas-y-automatica/asignaturas-impartidas/) | [ ![](https://github.com/dpsframework/.github/blob/master/profile/secomuci.png?raw=true)<br>Secomuci<br>Research Group](https://www.secomuci.com/) | [ ![](https://github.com/dpsframework/.github/blob/master/profile/dpsframework.png?raw=true)<br>Project website](https://dpsframework.org/index~_en.html) |  
